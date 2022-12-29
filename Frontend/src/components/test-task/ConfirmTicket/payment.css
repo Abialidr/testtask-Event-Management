@@ -1,0 +1,97 @@
+.StripeElement {
+    background-color: white;
+    padding: 8px 14px;
+    border-radius: 4px;
+    border: 1px solid #E4E4E4;
+  }
+  
+  .StripeElement--focus {
+    border-color: #00CCFF;
+  }
+  
+  .StripeElement--invalid {
+    border-color: #FF0033;
+  }
+  
+  .StripeElement--webkit-autofill {
+    background-color: #F9F9F9 !important;
+  }
+  label {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 10px;
+    color: #646464;
+  }
+  
+  form {
+    padding: 30px;
+    height: 120px;
+  }
+  
+  .form-row {
+    width: 553px;
+    padding-top: 13px;
+  }
+  
+  button {
+    font-family: 'Lato', sans-serif;
+    border: none;
+    outline: none;
+    color: #FFF;
+    background: #0088ff;
+    white-space: nowrap;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 14px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  #card-errors {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    display: block;
+    height: 20px;
+    padding: 4px 0;
+    color: #FF2255;
+  }
+  
+  .field--focus {
+    border-color: #00CCFF;
+  }
+  
+  .field--invalid {
+    border-color: #FF2255;
+  }
+  
+  .field--webkit-autofill {
+    background-color: #F9F9F9 !important;
+  }
+  
+  .field--placeholder {
+    color: #D4D4D4;
+  }
+  
+  .field {
+    background: white;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #E4E4E4;
+    border-radius: 4px;
+    color: #242424;
+    outline: none;
+    height: 36px;
+    line-height: 36px;
+    cursor: text;
+    width: 553px;
+    padding: 8px 14px;
+  }
